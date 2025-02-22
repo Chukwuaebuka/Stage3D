@@ -1,0 +1,2 @@
+/Users/aebuka/Desktop/H12/stage-3-task/try-1/stage_3d/android/app/.cxx/RelWithDebInfo/5y42pa2w/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/aebuka/Desktop/H12/stage-3-task/try-1/stage_3d/android/app/.cxx/RelWithDebInfo/5y42pa2w/armeabi-v7a/CMakeFiles/rebuild_cache.dir
